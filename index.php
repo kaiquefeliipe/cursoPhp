@@ -1,6 +1,8 @@
 <?php //TAG DE ABERTURA DO PHP
 
-echo "Meu primeiro código PHP! Hello World! Olá mundo";
+echo "Meu primeiro código PHP! Hello World! Olá mundo!$";
+
+echo "Olá udemy!";
 
 /*TAG DE FECHAMENTO DO PHP*/ 
 /*
