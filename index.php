@@ -2,7 +2,7 @@
 
 echo "Meu primeiro código PHP! Hello World! Olá mundo!$";
 
-echo "Olá udemy!";
+echo "Olá udemy e olá hCode!";
 
 /*TAG DE FECHAMENTO DO PHP*/ 
 /*
